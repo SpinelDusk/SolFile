@@ -1,0 +1,1 @@
+This library is required for the program to work. It provides compression and decompression functions for working on archives.
